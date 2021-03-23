@@ -7,6 +7,10 @@ namespace ConsoleApp4
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            while (true)
+            {
+                Console.WriteLine("Привет от Подбуртного Максима!)");
+            }
         }
     }
 }
